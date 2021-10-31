@@ -2,9 +2,17 @@ h1{
     color:blueviolet
 }
 img {
-    width: 400;
+    width: 400px;
 }
 #tirdDiv{
-    height: 600; width: 500; background-color: black; margin: 20;
+    height: 600px;
+    width: 500px;
+    background-color:burlywood;
+    margin: 20px; 
+    padding: 50px;
+    border: 15px chocolate double;
     
+}
+#spanId {
+    font-size: 25px ; margin: 50px;
 }
